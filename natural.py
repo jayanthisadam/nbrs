@@ -8,4 +8,4 @@ else:
    while num1 > 0:
         sum = sum + num1
         num1 = num1 - 1;
-        print(sum)
+   print(sum)
